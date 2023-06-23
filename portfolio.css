@@ -43,7 +43,7 @@
     }
 
     .rowheight {
-        background: url(assets/images/codingimg.jpg) rgba(0, 0, 0, 0.7);
+        background: url(assets/images/img.jpg) rgba(0, 0, 0, 0.7);
         background-blend-mode: darken;
         background-position-x: center;
         background-size: cover;
